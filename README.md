@@ -1,6 +1,6 @@
 # ODE
 
-Basic Digital Electronics Course Project
+Digital Electronics Course Project
 
 ## Getting Started
 
