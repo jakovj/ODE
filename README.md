@@ -14,11 +14,12 @@ These instructions will get you a copy of the project up and running on your loc
 For testing purposes the RS_MSP430F5438A is needed.
 
 ## Built With
+* IDE
 
 ## Tests
-'''
+```
 Test example
-'''
+```
 
 ## Authors
 
