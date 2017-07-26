@@ -16,11 +16,6 @@ For testing purposes the RS_MSP430F5438A is needed.
 ## Built With
 * Code Composer Studio
 
-## Tests
-```
-Test example
-```
-
 ## Authors
 
 Jakov Jezdić
@@ -28,10 +23,3 @@ Jakov Jezdić
 ## License
 
 This project is licensed under MIT License - see the [LICENSE.md](LICENSE.md) file for more details.
-
-
-## Acknowledgments
-
-Hat tip to anyone who's code was used
-Inspiration
-etc
